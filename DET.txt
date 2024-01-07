@@ -1,0 +1,21 @@
+TEAMA,PTS,TEAMB,PTS
+Detroit Pistons,86,New York Knicks,77
+Detroit Pistons,109,Memphis Grizzlies,86
+Detroit Pistons,84,Phoenix Suns,82
+Detroit Pistons,80,Utah Jazz,78
+Detroit Pistons,89,Denver Nuggets,63
+Detroit Pistons,93,New Orleans Hornets,87
+Detroit Pistons,74,Denver Nuggets,53
+Detroit Pistons,79,Miami Heat,68
+Detroit Pistons,106,Indiana Pacers,91
+Detroit Pistons,96,Milwaukee Bucks,91
+Detroit Pistons,91,Atlanta Hawks,80
+Detroit Pistons,86,Chicago Bulls,76
+Detroit Pistons,91,Seattle SuperSonics,78
+Detroit Pistons,101,New Jersey Nets,91
+Detroit Pistons,111,Cleveland Cavaliers,106
+Detroit Pistons,87,Washington Wizards,82
+Detroit Pistons,106,Minnesota Timberwolves,82
+Detroit Pistons,82,Toronto Raptors,74
+Detroit Pistons,103,Philadelphia 76ers,94
+Detroit Pistons,101,New Orleans Hornets,99
